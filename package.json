@@ -1,0 +1,20 @@
+{
+  "name": "management-system-crud",
+  "version": "1.0.0",
+  "description": "crud application",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "managements-system-crud"
+  },
+  "keywords": [
+    "management",
+    "system",
+    "crud"
+  ],
+  "author": "Chuma Mqeke",
+  "license": "ISC"
+}
